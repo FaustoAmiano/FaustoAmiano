@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+## Mi Nombre es Fausto Amiano
+Actualmente curso la carrera de Informática, en el Pio IX. Vivo en Almagro con mi familia
+Comencé a usar Github en 5to Año para las materias:
+- EFSI
+- Seminario
 <!--
 **FaustoAmiano/FaustoAmiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
